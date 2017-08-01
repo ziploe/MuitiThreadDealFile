@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/json-20090211.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/kafka-clients-0.10.2.0.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib_igraphdb-1.6.0/iGraphDB-1.6.9-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
